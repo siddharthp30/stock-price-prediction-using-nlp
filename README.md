@@ -1,2 +1,1 @@
-# nlp
-Natural language processing problems
+# Predicting DJIA Stock Prices Through Daily News Headlines Using NLP
